@@ -3,5 +3,6 @@ public class mygit {
         System.out.println("my first git!");
         System.out.println("my git branch!");
         System.out.println("b1版本");
+        System.out.println("b-one");
     }
 }
